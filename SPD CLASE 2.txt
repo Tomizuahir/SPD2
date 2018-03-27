@@ -1,0 +1,50 @@
+sistemas de representacion:
+
+numeros negativos.
+el bit mas significativo es el bit de signo, primer bit.
+8 bits estandar.
+
+3 maneras de representar numeros negativos:
+ 
+Signo Magnitud: el 0 es positivo y el 1 es negativo.Empezar desde el positivo 
+y luego agregarle el signo magnitud
+
+Complemento A1: Desde el positivo se convierte a complemento a1
+
+ej: 5 = 101(en binario) 00000101(positivo)
+   -5 = 		11111010(negativo)
+
+el bit de signo tiene un peso negativo 
+el complemento a1 de a es b y el complemento a1 de b es a.
+
+complemento A2:
+
+ej: 5 = 00000101
+
+	11111010
+	+      1
+        --------
+	11111011(-5)
+primero calcular el complemento A1
+el complemento a1 mas 1.
+la suma de 2 positivos no puede dar negativo.Overflow.
+
+
+00000110(6) cuando me toca un 1 dejo como esta y despues niego.
+11111010(-6)
+
+
+Carga electrica que es la encargada de transportar la energia electrica. 
+Los electrones libres son los encargados de ese transporte de energia
+Los electrones se mueven por un conductor ejemplo el cobre.
+
+Intensidad de corriente: I mide cuanta cantidad electrica
+pasa por el conductor en la unidad de tiempo(segundo) que se mide en una unidad llamada Ampere.
+
+la energia electrica se mide en joule
+
+Diferencia de potencial: V mide la cantidad de energia por cada carga (volt) o (tencion)
+
+
+
+	
